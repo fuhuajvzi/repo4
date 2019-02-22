@@ -9,5 +9,9 @@ public class Testgit {
         System.out.println("hello git...");
         System.out.println("hello git...");
         System.out.println("hello git...");
+
+        for (int i = 0 ;i<=10;i++){
+            System.out.println("git....");
+        }
     }
 }
